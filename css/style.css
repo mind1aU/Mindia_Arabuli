@@ -1,0 +1,22 @@
+body {
+  background-color: #e0f2e9; /* Light Green Background */
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff; /* White Background */
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  color: #1a9850; /* Dark Green Text */
+}
+
+p {
+  color: #333; /* Dark Gray Text */
+}
